@@ -50,8 +50,8 @@ flowchart LR
 - 🔐 Authentication + API + UI  
 - ☁️ Ready for cloud deployment  
 
-### 🤖 DevOps AI Agent
-- 🧠 AI-powered DevOps assistant  
+### 🤖 AI Agent
+- 🧠 AI-powered  assistant  
 - ⚙️ CI/CD automation + Kubernetes  
 - 📊 Observability + logging system  
 
